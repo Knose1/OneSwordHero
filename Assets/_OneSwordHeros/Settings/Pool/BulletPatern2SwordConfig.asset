@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779972b4e0cd803478593ff1cb85e580, type: 3}
+  m_Name: BulletPatern2SwordConfig
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7476841946175165884, guid: db2d506e8d0732f48bc49b36abbbe290, type: 3}
+  maxItem: 190
+  forceLimitClamp: 0
